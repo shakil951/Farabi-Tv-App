@@ -10,7 +10,7 @@ FARABI TV হলো একটি দ্রুত ও লাইটওয়েট
 | :--- | :--- |
 | **Downloader App Code** | **`9587900`** |
 | **Short URL** | [aftv.news/9587900](https://aftv.news/9587900) |
-| **Direct APK Link** | [Download FARABI.TV.1.71.apk](https://github.com/shakil951/Farabi-Tv-App/releases/download/v1.71/FARABI.TV.1.71.apk) |
+| **Direct APK Link** | [Download FARABI.TV.1.71.apk](https://github.com/shakil951/Farabi-Tv-App/releases/download/v1.71/FARABI.TV.1.72.apk) |
 | **Latest Release** | [Farabi-Tv-App Releases](https://github.com/shakil951/Farabi-Tv-App/releases/latest) |
 
 ---

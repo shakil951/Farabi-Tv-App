@@ -10,7 +10,7 @@ FARABI TV হলো একটি দ্রুত ও লাইটওয়েট
 | :--- | :--- |
 | **Downloader App Code** | **`9587900`** |
 | **Short URL** | [aftv.news/9587900](https://aftv.news/9587900) |
-| **Direct APK Link** | [Download FARABI.TV.1.72.apk](https://github.com/shakil951/Farabi-Tv-App/releases/download/v1.71/FARABI.TV.1.72.apk) |
+| **Direct APK Link** | [Download FARABI.TV.1.72.apk](https://github.com/shakil951/Farabi-Tv-App/releases/download/v1.72/FARABI.TV.1.72.apk) |
 | **Latest Release** | [Farabi-Tv-App Releases](https://github.com/shakil951/Farabi-Tv-App/releases/latest) |
 
 ---
@@ -20,7 +20,7 @@ FARABI TV হলো একটি দ্রুত ও লাইটওয়েট
 1. অ্যান্ড্রয়েড টিভির গুগল প্লে স্টোর থেকে **Downloader by AFTVnews** অ্যাপটি ওপেন করুন।
 2. সার্চ বক্সে কোডটি লিখুন: **`9587900`**
 3. **Go** বাটনে চাপুন; অ্যাপটি সরাসরি ডাউনলোড হয়ে ইনস্টল প্রম্পট চলে আসবে।
-4. <img src="farabi-tv-navigation-guide.png" alt="Remote Guide" width="100%">
+4. <img src="farabi-tv-navigation-guide.jpg" alt="Remote Guide" width="100%">
 
 ---
 

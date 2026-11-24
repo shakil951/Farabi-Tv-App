@@ -8,7 +8,7 @@ FARABI TV হলো একটি দ্রুত ও লাইটওয়েট
 
 | মাধ্যম | ডাউনলোড লিংক / কোড |
 | :--- | :--- |
-| **Downloader App Code** | **`9587900`** |
+| **Downloader App Code** | **`2056942`** |
 | **Short URL** | [aftv.news/9587900](https://aftv.news/2056942) |
 | **Direct APK Link** | [Download FARABI.TV.1.72.apk](https://github.com/shakil951/Farabi-Tv-App/releases/download/v1.72/FARABI.TV.1.72.apk) |
 | **Latest Release** | [Farabi-Tv-App Releases](https://github.com/shakil951/Farabi-Tv-App/releases/latest) |
@@ -18,7 +18,7 @@ FARABI TV হলো একটি দ্রুত ও লাইটওয়েট
 ## 📱 টিভিতে ইনস্টল করার নিয়ম (How to Install)
 
 1. অ্যান্ড্রয়েড টিভির গুগল প্লে স্টোর থেকে **Downloader by AFTVnews** অ্যাপটি ওপেন করুন।
-2. সার্চ বক্সে কোডটি লিখুন: **`9587900`**
+2. সার্চ বক্সে কোডটি লিখুন: **`2056942`**
 3. **Go** বাটনে চাপুন; অ্যাপটি সরাসরি ডাউনলোড হয়ে ইনস্টল প্রম্পট চলে আসবে।
 4. <img src="farabi-tv-navigation-guide.jpg" alt="Remote Guide" width="100%">
 
